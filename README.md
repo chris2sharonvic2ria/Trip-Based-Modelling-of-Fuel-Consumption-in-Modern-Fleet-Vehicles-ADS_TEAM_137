@@ -4,6 +4,7 @@ In today's world, fuel consumption plays a critical role in the operational cost
 
 # TO RUN THE CODE
 save the folder in the desired location
+
 open anaconda prompt and open the file location using following commands
 
 cd <location of the file Downloads/Desktop/..>
