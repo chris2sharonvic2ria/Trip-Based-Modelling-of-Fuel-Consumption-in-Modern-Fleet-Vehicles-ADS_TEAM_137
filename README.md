@@ -4,10 +4,15 @@ In today's world, fuel consumption plays a critical role in the operational cost
 
 # TO RUN THE CODE
 save the folder in the desired location
+
 open anaconda prompt and open the file location using following commands
+
 cd <location of the file Downloads/Desktop/..>
+
 cd ADS_PROJECT_TEAM-137
+
 cd Flask
+
 python app.py
 
 You will be redirected to the html page fill in the values and the fuel consumption is predicted by clicking on submit button with an accuracy of 82.8%
