@@ -15,5 +15,5 @@ cd Flask
 
 python app.py
 
-You will be redirected to the html page fill in the values and the fuel consumption is predicted by clicking on submit button with an accuracy of 86.5%
+You will be redirected to the html page fill in the values and the fuel consumption is predicted by clicking on submit button with an rmse of 87.45%
 
